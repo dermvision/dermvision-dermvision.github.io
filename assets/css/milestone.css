@@ -1381,3 +1381,11 @@ canvas {
 .text-small {
   font-size: small;
 }
+
+.text-small-a {
+  font-size: small;
+}
+
+.text-small-a:hover {
+ color: #e7a019;
+}
